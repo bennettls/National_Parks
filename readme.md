@@ -1,4 +1,4 @@
-# **Interactive Bivariate Map of National Parks in the United States**
+# **Interactive Bivariate Map of US National Parks**
 
 
 There are 63 national parks according to the National Park Foundation. Each one displays a spectacular sense of beauty which demands complete preservation to ensure the health of native species and to spark appreciation for America's natural treasures. National parks are facing a popularity crisis with technology, successful marketing, and tourism bringing millions of visitors to national parks each year. National parks were once a place to disconnect from the modern world, but they have rapidly transformed into millennial amusement parks doomed to leave a trace
